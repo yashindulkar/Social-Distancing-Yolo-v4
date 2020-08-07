@@ -16,14 +16,14 @@
 
 6️⃣ Build in data file & cfg can be used for Social Distancing
 
-### Visual representation of Algorithms 
+### ⚫️ Visual representation of Algorithms 
 
 1️⃣ Using Darknet
 
 ❗️ Stock Video for Social Distancing 
 
-![]()
+![](https://github.com/yashindulkar/Social-Distancing-Yolo-v4/blob/master/Videos/Stock%20Video.gif)
 
 ❗️ YOLO for Social Distancing
 
-![]()
+![](https://github.com/yashindulkar/Social-Distancing-Yolo-v4/blob/master/Videos/Output.gif)
