@@ -1,2 +1,29 @@
-# Social-Distancing-Yolo-v4
-This repository is for the people who wants to do Social Distancing or Distance calculation using Yolo v4 with Darknet.
+# YOLO v4 for Social Distancing & Face Mask Detection 
+
+### ➡️ The repository consists of Code & Datasets used for the Social Distancing & Face Mask Detection
+
+### ⚫️ Project Insights
+
+1️⃣ There are 2 methods used which are Darknet & Deepsort 
+
+2️⃣ Darknet using YOLO is the basic functionality which is used for Object Detection
+
+3️⃣ Deepsort using YOLO is advanced functionality which is used for Object Tracking
+
+4️⃣ Social Distancing is currently used for the Darknet 
+
+5️⃣ Custom cfg & data file is used for the Face Mask Detection
+
+6️⃣ Build in data file & cfg can be used for Social Distancing
+
+### Visual representation of Algorithms 
+
+1️⃣ Using Darknet
+
+❗️ Stock Video for Social Distancing 
+
+![]()
+
+❗️ YOLO for Social Distancing
+
+![]()
