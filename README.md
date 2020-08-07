@@ -16,7 +16,7 @@
 
 6️⃣ Build in data file & cfg can be used for Social Distancing
 
-### ⚫️ Visual representation of Algorithms 
+### ⚫️ Visual representation 
 
 1️⃣ Using Darknet
 
